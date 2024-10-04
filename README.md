@@ -11,10 +11,13 @@
  for Code to run correctly) with the grader.
 
 ### Assigned classes:
- n02090379-redbone
- n02097047-miniature_schnauzer
- n02104365-schipperke
- n02112018-Pomeranian
+#### n02090379-redbone
+ 
+ #### n02097047-miniature_schnauzer
+ 
+ #### n02104365-schipperke
+ 
+ #### n02112018-Pomeranian
 
 
  3. UseXMLprocessingmodules(https://docs.python.org/3/library/xml.html)toobtainbound
@@ -76,6 +79,7 @@ ingboxinformationfromAnnotationsdatasetsandscikit-Image(Reference: https://sciki
  v. Plot the images with their corresponding edge histogram values (add x-axis label “Bins” and
  y-axis label “Pixel Count” ). (2 points)
 
+![image](https://github.com/user-attachments/assets/a0ffe9b7-81b8-429b-b838-80c3b4e78257)
 
 
  vi. Pick 2 edge histograms from the 4 you have constructed (These are the vector representations
@@ -86,9 +90,9 @@ rics/measures. (seehttps://scikit-learn.org/stable/modules/generated/sklearn.
  metrics)– Euclidean distance– Manhattan distance– Cosine distance
  (1.5 points)
 
-Euclidean Distance: 1602.912973308283
-Manhattan Distance: 7818.0
-Cosine Distance: 0.1486179553006004
+### Euclidean Distance: 1602.912973308283
+### Manhattan Distance: 7818.0
+### Cosine Distance: 0.1486179553006004
 
 
  (c) Histogram of Oriented Gradient (HOG) feature descriptor (see https://en.wikipedia.
@@ -148,4 +152,4 @@ tograms to reduce from 36 to 2 dimensions. (Note: You should not use the class l
 
  ![image](https://github.com/user-attachments/assets/23f8d518-08f2-45cf-98b5-04b8b6063202)
 
- Visually not separable
+###  Visually not separable
