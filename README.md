@@ -104,6 +104,7 @@ rics/measures. (seehttps://scikit-learn.org/stable/modules/generated/sklearn.
 
  ![image](https://github.com/user-attachments/assets/351d6302-d27d-4f00-a201-c9976c4ab0eb)
 
+
  (d) Dimensionalityreduction(usingPrincipalComponentAnalysis,PCA)(seehttps://scikit-learn.
  org/stable/modules/generated/sklearn.decomposition.PCA.htmlforPCA.https://
  scikit-learn.org/stable/auto_examples/decomposition/plot_pca_iris.htmlforcode
@@ -119,6 +120,8 @@ tograms to reduce from 36 to 2 dimensions. (Note: You should not use the class l
  Howmany classes are visually separable (i.e., non-overlapping) ? (1 point)
  Figure 1:
  ![image](https://github.com/user-attachments/assets/e1ef17d1-4d09-46be-93ed-fc082d1a342d)
+
+#### I do not see any classes that can be separated visually
 
  5. Next, we perform some text processing steps on a tweet (i.e., text) dataset. The dataset file is in json
  format and each dataset consists of
